@@ -2,6 +2,8 @@
 
 This repository showcases video stimuli further explained in the accepted ICRA 2025 paper entitled "How Sound-Based Robot Communication Impacts Perceptions of Robotic Failure."
 
+## Stimulus Condition Videos
+
 This work centered on an online video-based survey that explored how different Hello Robot Stretch RE2 sound profiles impacted onlooker reactions to robot failure. In this work, the three presented sound conditions were: 
 1) A robot with no added sound (i.e., consequential sound only, such as sound from the robot's actuators and interactions with objects in the environment)
 2) A robot with added linguistic sound (i.e., verbal speech)
@@ -11,25 +13,27 @@ For each condition, we presented an initial stimulus video introducing the robot
 
 The introduction and failure videos for each condition are presented below.
 
-## Consequential Sound: Initial Stimulus Video
+### Consequential Sound: Initial Stimulus Video
 https://vimeo.com/manage/videos/902120777/2f532d7ea8
 
-## Consequential Sound: Failure Stimulus Video
+### Consequential Sound: Failure Stimulus Video
 https://vimeo.com/manage/videos/908402155/78902beeca
 
-## Linguistic Sound: Initial Stimulus Video
+### Linguistic Sound: Initial Stimulus Video
 https://vimeo.com/manage/videos/908403017/2dcae3ac9f
 
-## Linguistic Sound: Failure Stimulus Video
+### Linguistic Sound: Failure Stimulus Video
 https://vimeo.com/manage/videos/908403161/e6c5996930
 
-## Character-like Sound: Initial Stimulus Video
+### Character-like Sound: Initial Stimulus Video
 https://vimeo.com/manage/videos/908401747/683953ef8a
 
-## Character-like Sound: Failure Stimulus Video
+### Character-like Sound: Failure Stimulus Video
 https://vimeo.com/manage/videos/908401269/feb0860573
+
+## Stretch Robot Introduction
 
 Because we expected most respondents to be unfamiliar with the Stretch robot, we also made a brief video that we asked participants to view near the beginning of the survey (before viewing any condition stimuli). That video is also included below.
 
-## Stretch Robot Introduction Video
+### Stretch Robot Introduction Video
 https://vimeo.com/manage/videos/902121035/c54daca935
