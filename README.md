@@ -28,3 +28,8 @@ https://vimeo.com/manage/videos/908401747/683953ef8a
 
 ## Character-like Sound: Failure Stimulus Video
 https://vimeo.com/manage/videos/908401269/feb0860573
+
+Because we expected most respondents to be unfamiliar with the Stretch robot, we also made a brief video that we asked participants to view near the beginning of the survey (before viewing any condition stimuli). That video is also included below.
+
+## Stretch Robot Introduction Video
+https://vimeo.com/manage/videos/902121035/c54daca935
