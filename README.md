@@ -1,4 +1,4 @@
-# Sound-Responses-to-Robot-Failure
+# Sound-and-Responses-to-Robot-Failure
 
 This repository showcases video stimuli further explained in the accepted ICRA 2025 paper entitled "How Sound-Based Robot Communication Impacts Perceptions of Robotic Failure."
 
